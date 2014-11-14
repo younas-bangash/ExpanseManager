@@ -1,4 +1,4 @@
 ExpanseManager
 ==============
 
-ExpanseManager that Calculate Daily Expenses
+ExpanseManager  is an android app that Calculate Daily Expenses
